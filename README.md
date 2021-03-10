@@ -1,5 +1,5 @@
 ## Hi there, I'm Suresh 👋
-- 🔭 I’m currently Doing My Master's In DataScience! [2019-2021]
+- 🔭 I’m currently doing my Master's In DataScience! [2019-2021]
 - 🌱 I’m currently learning Applied ML, RL, AI and Blockchain
 - 💬 Ask me anything related to DataScience ! 
 - 📫 How to reach me: @[Linkedin]
